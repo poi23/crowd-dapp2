@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/crowd-dapp2/static/css/main.d5087d6f.css",
-    "main.js": "/crowd-dapp2/static/js/main.a3543373.js",
+    "main.js": "/crowd-dapp2/static/js/main.c3aea7e4.js",
     "static/js/488.c6451216.chunk.js": "/crowd-dapp2/static/js/488.c6451216.chunk.js",
     "index.html": "/crowd-dapp2/index.html",
     "main.d5087d6f.css.map": "/crowd-dapp2/static/css/main.d5087d6f.css.map",
-    "main.a3543373.js.map": "/crowd-dapp2/static/js/main.a3543373.js.map",
+    "main.c3aea7e4.js.map": "/crowd-dapp2/static/js/main.c3aea7e4.js.map",
     "488.c6451216.chunk.js.map": "/crowd-dapp2/static/js/488.c6451216.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5087d6f.css",
-    "static/js/main.a3543373.js"
+    "static/js/main.c3aea7e4.js"
   ]
 }
